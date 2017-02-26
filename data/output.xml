@@ -1,0 +1,3142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects>
+<object>
+		<known_as>E41 Appellation</known_as>
+		<provenance>P7 took place at; E53 Place; E44 Place Appellation</provenance>
+		<geo_reference>E47 Spatial Co-ordinates</geo_reference>
+		<date_of_discovery>P8 took place on E52 Time-Span (or E61 Time Primitive?)</date_of_discovery>
+		<circumstances_of_disc.>E5 Event; E63 Beginning of existence</circumstances_of_disc.>
+		<reliability>?</reliability>
+		<total_wt._ar>P43 has dimension E54 Dimension</total_wt._ar>
+		<comments></comments>
+		<material/s>P45 consists of E57 Material</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>P2 has type E55 Type</form>
+		<ratio_(h/d)>P43 has dimension E54 Dimension (? true of calculations as well?)</ratio_(h/d)>
+		<completeness></completeness>
+		<description>E22 Man-Made Object</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)></date_(earliest)>
+		<date_(latest)></date_(latest)>
+		<culture></culture>
+		<d_(total)></d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)></h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.></wt.>
+		<equivalent></equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition></disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>?</bib._refs.>
+</object>
+<object>
+		<known_as>Almandralejo</known_as>
+		<provenance>Spain</provenance>
+		<geo_reference>38° 40′ 59″ N, 6° 24′ 33″ W</geo_reference>
+		<date_of_discovery>1847</date_of_discovery>
+		<circumstances_of_disc.>found 'folded in half'</circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar>15350</total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>platter</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>2 decorative zones. Upper zone of 3 emps., presumably Theodosius flanked by (probably) Valentinian II &amp; Arcadius. 4 columned facade behind. Inscr. next to rim ‘DN THEODOSIVS PERPET AVG OB DIEM FELICISSIMVM X’ (referring to Th.’s decennalia on Jan. 388). On underside ‘POÇ LI N MET’ (50 Roman lbs.).</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>388</date_(earliest)>
+		<date_(latest)></date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>740</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)>260</d._(f'ring)>
+		<h_(total)>34</h_(total)>
+		<h_(f'ring)>22</h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)>0</ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>15350</wt.>
+		<equivalent>46</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Real Academia de la Historia, Madrid</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>Toynbee &amp; Painter 1986, no. 16</bib._refs.>
+</object>
+<object>
+		<known_as>Asia Minor</known_as>
+		<provenance>Turkey</provenance>
+		<geo_reference></geo_reference>
+		<date_of_discovery></date_of_discovery>
+		<circumstances_of_disc.>unknown</circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar>0</total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>bowl</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Hemispherical with hunting scene decorative frieze. Description by Feugere translates as: 'A man in a tunic, wearing boots, faces a lion with his spear coming from his left, the animal leaps towards him, claws out, below, three rocks (?) and a tree (palm?) in the background. On both sides of the man's head, an inscription 'KOY/PHC. A palm (?) separates this scene from another similar, on which we see a bear over a mass of rocks, chased by a large dog.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>102</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>65</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>?</wt.>
+		<equivalent></equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>private collection</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>Feugère 1992; Guggisberg &amp; Kaufmann-Heinimann 2003, 345, no. 91</bib._refs.>
+</object>
+<object>
+		<known_as>Scipio's Shield'</known_as>
+		<provenance>France</provenance>
+		<geo_reference>43° 57′ 0″ N, 4° 48′ 36″ E</geo_reference>
+		<date_of_discovery>1656</date_of_discovery>
+		<circumstances_of_disc.>found “in the Rhône near Avignon” (Toynbee &amp; Painter)</circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar>10300</total_wt._ar>
+		<comments>aka 'Scipio's shield'</comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>platter</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Low footring, rivets used to repair a tear. Traces of gilding. Central scene of Achilles, with Patroclus leading Briseis from Achilles tent. Achilles consults with Odysseus, scattered weapons at bottom, border of pomegranates.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>710</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>41</h_(total)>
+		<h_(f'ring)>20</h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>10300</wt.>
+		<equivalent>31</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Cabinet des Médailles, Biblioteque Nationale, Paris</disposition>
+		<inv._no.>Inv. no. 2875</inv._no.>
+		<bib._refs.>Weitzmann 1979, 220-1, no. 197; Bruce-Mitford 1983, 200; Toynbee &amp; Painter 1986, no. 21; Baratte &amp; Painter 1989, 269-71, no. 235</bib._refs.>
+</object>
+<object>
+		<known_as>Baku</known_as>
+		<provenance>Russia</provenance>
+		<geo_reference></geo_reference>
+		<date_of_discovery>1800-1900</date_of_discovery>
+		<circumstances_of_disc.>found “by chance” (Toynbee &amp; Painter 1986)</circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment>gilding</surface_treatment>
+		<production_techniques></production_techniques>
+		<form>plate</form>
+		<ratio_(h/d)></ratio_(h/d)>
+		<completeness></completeness>
+		<description>Partly gilded, with footring. Relief scenes of nereid on the back of a hippocamp, lead by a triton. Various other marine motifs.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>240</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)>82</d._(f'ring)>
+		<h_(total)></h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>1030</wt.>
+		<equivalent>3</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Hermitage, St. Petersburg</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>Matzulevitsch 1929, 35-7; Strong 1966, 198; Toynbee &amp; Painter 1986, no. 37</bib._refs.>
+</object>
+<object>
+		<known_as>The Carthage Treasure</known_as>
+		<provenance>Tunisia</provenance>
+		<geo_reference>36° 51′ 10.08″ N, 10° 19′ 23.88″ E</geo_reference>
+		<date_of_discovery>1800-1900</date_of_discovery>
+		<circumstances_of_disc.>Little is known about the circumstances of discovery, but Franks notes suggest that it was discovered next to the Church of St Louis.</circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>bowl</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>With flange, decorated with pastoral scenes, another pastoral scene in base of bowl</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>176</d_(total)>
+		<w_(rim)>71</w_(rim)>
+		<d_(exc._rim)>105</d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>57</h_(total)>
+		<h_(f'ring)>8</h_(f'ring)>
+		<h_(exc._f'ring)>44</h_(exc._f'ring)>
+		<ratio_(f'rh/h't)>0</ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>388</wt.>
+		<equivalent>1</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>The British Museum</disposition>
+		<inv._no.>AF 3275</inv._no.>
+		<bib._refs.>Dalton 1901, no. 373-4; Kent &amp; Painter, 1977 (99-102); Hauser 1992, no. 71-2; Baratte 2002</bib._refs.>
+</object>
+<object>
+		<known_as>The Carthage Treasure</known_as>
+		<provenance>Tunisia</provenance>
+		<geo_reference>36° 51′ 10.08″ N, 10° 19′ 23.88″ E</geo_reference>
+		<date_of_discovery>1800-1900</date_of_discovery>
+		<circumstances_of_disc.>Little is known about the circumstances of discovery, but Franks notes suggest that it was discovered next to the Church of St Louis.</circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>bowl</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>With flange, similar to above, but leaf at base of dish, and the rim is decoration with four Bacchic heads and a mixture of pastoral and hunt scenes.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>188</d_(total)>
+		<w_(rim)>61</w_(rim)>
+		<d_(exc._rim)>127</d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>54</h_(total)>
+		<h_(f'ring)>7</h_(f'ring)>
+		<h_(exc._f'ring)>49</h_(exc._f'ring)>
+		<ratio_(f'rh/h't)>0</ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>331</wt.>
+		<equivalent>1</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>The British Museum</disposition>
+		<inv._no.>AF 3276</inv._no.>
+		<bib._refs.>Dalton 1901, no. 373-4; Kent &amp; Painter, 1977 (99-102); Hauser 1992, no. 71-2; Baratte 2002</bib._refs.>
+</object>
+<object>
+		<known_as>The Carthage Treasure</known_as>
+		<provenance>Tunisia</provenance>
+		<geo_reference>36° 51′ 10.08″ N, 10° 19′ 23.88″ E</geo_reference>
+		<date_of_discovery>1800-1900</date_of_discovery>
+		<circumstances_of_disc.>Little is known about the circumstances of discovery, but Franks notes suggest that it was discovered next to the Church of St Louis.</circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>dish</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Two registers of wavy decoration, central medallion with inscription 'D.D. ICRESCONI CLARENT (monogram cross)'</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>137</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>31</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>153</wt.>
+		<equivalent>0</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>The British Museum</disposition>
+		<inv._no.>AF 3277</inv._no.>
+		<bib._refs.>Dalton 1901, no. 373-4; Kent &amp; Painter, 1977 (99-102); Hauser 1992, no. 71-2; Baratte 2002</bib._refs.>
+</object>
+<object>
+		<known_as>The Carthage Treasure</known_as>
+		<provenance>Tunisia</provenance>
+		<geo_reference>36° 51′ 10.08″ N, 10° 19′ 23.88″ E</geo_reference>
+		<date_of_discovery>1800-1900</date_of_discovery>
+		<circumstances_of_disc.>Little is known about the circumstances of discovery, but Franks notes suggest that it was discovered next to the Church of St Louis.</circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>dish</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Similar to 3, but with inscription 'LOQVERE FELICITER (Chi-Rho, alpha/ omega)'.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>138</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>31</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>153</wt.>
+		<equivalent>0</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>The British Museum</disposition>
+		<inv._no.>AF 3278</inv._no.>
+		<bib._refs.>Dalton 1901, no. 373-4; Kent &amp; Painter, 1977 (99-102); Hauser 1992, no. 71-2; Baratte 2002</bib._refs.>
+</object>
+<object>
+		<known_as>Castelvint</known_as>
+		<provenance>Italy</provenance>
+		<geo_reference>46° 8′ 25″ N, 12° 13′ 0″ E</geo_reference>
+		<date_of_discovery>1937</date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment>gilding</surface_treatment>
+		<production_techniques></production_techniques>
+		<form>Plate</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>With traces of gilding, beaded rim. Relief scene in three zones. Main scene shows Athens &amp; Tiresias. Dotted insc.  underneath possibly to be interpreted as p (ondera) II (duo) uncia or obolos tres duella sextula</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>230</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)>150</d._(f'ring)>
+		<h_(total)>35</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>685</wt.>
+		<equivalent>2</equivalent>
+		<capacity></capacity>
+		<rim_type>beaded</rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Nazionale Archeologico, Venice</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>Toynbee &amp; Painter 1986, no. 32</bib._refs.>
+</object>
+<object>
+		<known_as>Červenbreg</known_as>
+		<provenance>Bulgaria</provenance>
+		<geo_reference>42° 18′ 0″ N, 23° 10′ 0.12″ E</geo_reference>
+		<date_of_discovery>1952</date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>Dish?</form>
+		<ratio_(h/d)></ratio_(h/d)>
+		<completeness></completeness>
+		<description>vertical, fluted rim. Central stamped medallion, with portrait of Licinius and inscrip. relating to his decennelia ‘LICINIVS INVICT AVG OB DIEM X SVORVM’. Pointillé inscr. on back ‘O FLAV NICANI MBN’ (last 2 ‘N’s reversed). Graffiti on back ‘Pro Gerontus’.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>321</date_(earliest)>
+		<date_(latest)>329</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>277</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)></h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>620</wt.>
+		<equivalent>1</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Archaeological Museum, Sofia</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>FA  xii 1960; Kent &amp; Painter 1977, 22; Toynbee &amp; Painter 1986; Popovic 1994, no. 350</bib._refs.>
+</object>
+<object>
+		<known_as>Červenbreg</known_as>
+		<provenance>Bulgaria</provenance>
+		<geo_reference>42° 18′ 0″ N, 23° 10′ 0.12″ E</geo_reference>
+		<date_of_discovery>1952</date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>Dish?</form>
+		<ratio_(h/d)></ratio_(h/d)>
+		<completeness></completeness>
+		<description>vertical, fluted rim. Central stamped medallion, with portrait of Licinius and inscrip. relating to his decennelia ‘LICINIVS INVICT AVG OB DIEM X SVORVM’. Pointillé inscr. on back ‘O FLAV NICANI MBN’ (last 2 ‘N’s reversed). Graffiti on back ‘R’.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>321</date_(earliest)>
+		<date_(latest)>329</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>265</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)></h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>635</wt.>
+		<equivalent>1</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Archaeological Museum, Sofia</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>FA  xii 1960; Kent &amp; Painter 1977, 22; Toynbee &amp; Painter 1986; Popovic 1994, no. 351</bib._refs.>
+</object>
+<object>
+		<known_as>Cesena</known_as>
+		<provenance>Italy</provenance>
+		<geo_reference>44° 13′ 21″ N, 12° 2′ 27″ E</geo_reference>
+		<date_of_discovery>1948</date_of_discovery>
+		<circumstances_of_disc.>“found during building work in via Cimitero, with a second dish....the dishes were on top of the other, with their decorated faces opposed to each other”.</circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment>gilding; niello</surface_treatment>
+		<production_techniques></production_techniques>
+		<form>platter</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>gilt with niello. Shallow footring. Part of the wall and approx. 80cm of the rim are missing (since restored). (Toynbee &amp; Painter 1986). Rim deco’: Eight busts orig., + pastoral &amp; hunting scenes. Central medallion showing a banquet. Two stamps on reverse, ‘PL’ or ‘LP’, &amp; ivy leaf. Other may read ‘ANT’ or ‘ANL’</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>630</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>47</h_(total)>
+		<h_(f'ring)>28</h_(f'ring)>
+		<h_(exc._f'ring)>18</h_(exc._f'ring)>
+		<ratio_(f'rh/h't)>0</ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>c6000</wt.>
+		<equivalent></equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Museo Storico dell’ Antichità’, Cesena</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>Wroth 1911, 103, no. 31, pl. xiv, 5; Dodd 1961, 243, no. 86; Kent &amp; Painter 1977, 41; Bruce-Mitford 1983, 200</bib._refs.>
+</object>
+<object>
+		<known_as>Cesena</known_as>
+		<provenance>Italy</provenance>
+		<geo_reference>44° 13′ 21″ N, 12° 2′ 27″ E</geo_reference>
+		<date_of_discovery>1948</date_of_discovery>
+		<circumstances_of_disc.>“found during building work in via Cimitero, with a second dish....the dishes were on top of the other, with their decorated faces opposed to each other”.</circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>platter</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>with foot-ring. Decorated with a single winged Cupid.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>620</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)>423</d._(f'ring)>
+		<h_(total)>46</h_(total)>
+		<h_(f'ring)>30</h_(f'ring)>
+		<h_(exc._f'ring)>16</h_(exc._f'ring)>
+		<ratio_(f'rh/h't)>0</ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>c6600</wt.>
+		<equivalent>20</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Museo Storico dell’ Antichità’, Cesena</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>Wroth 1911, 103, no. 31, pl. xiv, 5; Dodd 1961, 243, no. 86; Kent &amp; Painter 1977, 41; Bruce-Mitford 1983, 200</bib._refs.>
+</object>
+<object>
+		<known_as>Conçesti</known_as>
+		<provenance>Romania</provenance>
+		<geo_reference>48° 10′ 0″ N, 26° 33′ 0″ E</geo_reference>
+		<date_of_discovery>1812</date_of_discovery>
+		<circumstances_of_disc.>“Part of a rich deposit of grave goods in a senior barbarian army officer’s grave.” (Toynbee &amp; Painter, 1986)</circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment>gilding; niello</surface_treatment>
+		<production_techniques></production_techniques>
+		<form>platter</form>
+		<ratio_(h/d)></ratio_(h/d)>
+		<completeness></completeness>
+		<description>gilt, nielloed. large no. of cracks, two major portions missing (rim &amp; body). Frieze around rim, alternating centaur hunts, animal hunts with riders, and animal scenes. Central geometric medallion, 8 pointed star formed of interlocking squares; guilloche, and there are small animal and plant motifs inside the scroll.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>555</d_(total)>
+		<w_(rim)>42</w_(rim)>
+		<d_(exc._rim)>513</d_(exc._rim)>
+		<d._(f'ring)>158</d._(f'ring)>
+		<h_(total)>?</h_(total)>
+		<h_(f'ring)>9</h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>?</wt.>
+		<equivalent></equivalent>
+		<capacity></capacity>
+		<rim_type>bead &amp; reel</rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Dept. of Prehistoric Cultures, Hermitage, St. Petersburg</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>Matzulewitsch 1929; Toynbee &amp; Painter 1986, no. 51</bib._refs.>
+</object>
+<object>
+		<known_as>Conçesti</known_as>
+		<provenance>Romania</provenance>
+		<geo_reference>48° 10′ 0″ N, 26° 33′ 0″ E</geo_reference>
+		<date_of_discovery>1812</date_of_discovery>
+		<circumstances_of_disc.>“Part of a rich deposit of grave goods in a senior barbarian army officer’s grave.” (Toynbee &amp; Painter, 1986)</circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>amphora</form>
+		<ratio_(h/d)></ratio_(h/d)>
+		<completeness></completeness>
+		<description>centaur handles, 3 zones of deco' on body; animal, Dionysiac and marine.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>?</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>425</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>5268</wt.>
+		<equivalent>16</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Dept. of Prehistoric Cultures, Hermitage, St. Petersburg</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>Matzulewitsch 1929, 135-6; Kent and Painter 1977 (296); Mango &amp; Bennett 1994, 51</bib._refs.>
+</object>
+<object>
+		<known_as>Conçesti</known_as>
+		<provenance>Romania</provenance>
+		<geo_reference>48° 10′ 0″ N, 26° 33′ 0″ E</geo_reference>
+		<date_of_discovery>1812</date_of_discovery>
+		<circumstances_of_disc.>“Part of a rich deposit of grave goods in a senior barbarian army officer’s grave.” (Toynbee &amp; Painter, 1986)</circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>situla</form>
+		<ratio_(h/d)>1</ratio_(h/d)>
+		<completeness></completeness>
+		<description>with Bacchic scenes (see Matzulevitch)</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>167</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>225</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>3888</wt.>
+		<equivalent>11</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Dept. of Prehistoric Cultures, Hermitage, St. Petersburg</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>Matzulewitsch 1929, 134-6</bib._refs.>
+</object>
+<object>
+		<known_as>Corbridge</known_as>
+		<provenance>Great Britain</provenance>
+		<geo_reference>54° 58′ 30″ N, 2° 1′ 1.2″ W</geo_reference>
+		<date_of_discovery>c1731-60</date_of_discovery>
+		<circumstances_of_disc.>“in or on” the bank of the Tyne, approx. 150 yds. below the bridge which crosses the Tyne at Corbridge</circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>platter</form>
+		<ratio_(h/d)></ratio_(h/d)>
+		<completeness></completeness>
+		<description>supported by rim or foot. Chased low relief. Artemis, Athena, Apollo, &amp; 2 unidentified figures. Various animals and other ornaments</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>503</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)></h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>4600</wt.>
+		<equivalent>14</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>The British Museum</disposition>
+		<inv._no.>1993, 0401.1</inv._no.>
+		<bib._refs.>Haverfield 1914</bib._refs.>
+</object>
+<object>
+		<known_as>Cuxhaven-Altenwalde</known_as>
+		<provenance>Germany</provenance>
+		<geo_reference>53° 51′ 40″ N, 8° 41′ 40″ E</geo_reference>
+		<date_of_discovery>1944</date_of_discovery>
+		<circumstances_of_disc.>found “at the edge of the outer ditch of the medieval wall of Altenwalde. It comes from the Saxon cremation cemetry, which extends under the old city”. (Toynbee &amp; Painter 1986)</circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>platter</form>
+		<ratio_(h/d)></ratio_(h/d)>
+		<completeness></completeness>
+		<description>Fragmentary &amp; central portion &amp; two sections of rim survive), moulded rim, footring, figured deco’ in relief. Apollo &amp; Marsyas</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>350</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>c490</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)></h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>?</wt.>
+		<equivalent></equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Niedersächsisches Landesmuseum, Hannover</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>La Baume 1971; Künzl 1980; Toynbee &amp; Painter 1986, no. 30</bib._refs.>
+</object>
+<object>
+		<known_as>Gazipaşa</known_as>
+		<provenance>Turkey</provenance>
+		<geo_reference>36° 16′ 22″ N, 32° 18′ 47″ E</geo_reference>
+		<date_of_discovery></date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>platter</form>
+		<ratio_(h/d)></ratio_(h/d)>
+		<completeness></completeness>
+		<description>Outer frieze of hunting; central medallion showing Minerva</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>360</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)></h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>?</wt.>
+		<equivalent></equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Antalya Museum</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>Guggisberg &amp; Kaufmann-Heinimann, p. 148; Schneider 1983, 150; A. Atila/M. E. Ozgur, Antalya, Museum Fuhrer (Antalya 1996), 73; Mundell Mango 1998, 213</bib._refs.>
+</object>
+<object>
+		<known_as>Geneva</known_as>
+		<provenance>Switzerland</provenance>
+		<geo_reference>46° 12′ 0″ N, 6° 9′ 0″ E</geo_reference>
+		<date_of_discovery>1721</date_of_discovery>
+		<circumstances_of_disc.>found in a field on the banks of the Arve.</circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>plate</form>
+		<ratio_(h/d)></ratio_(h/d)>
+		<completeness></completeness>
+		<description>Very worn figured scene of an emperor (Valentinian I or II) flanked by six soldiers. Inscribed on upper border ‘LARGITAS DN VALENTINIANI AVGVSTI’.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>369</date_(earliest)>
+		<date_(latest)>386</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>270</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>?</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>1050</wt.>
+		<equivalent>3</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Musée d’Art et d’Histoire, Geneva</disposition>
+		<inv._no.>Inv. no. C. 1241</inv._no.>
+		<bib._refs.>Déonna 1920; Grünhagen 1954; Toynbee &amp; Painter 1986, no. 15; Baratte and Painter 1989, 271-2, no. 236; Arbeiter 1997</bib._refs.>
+</object>
+<object>
+		<known_as>The Kaiseraugst Treasure</known_as>
+		<provenance>Switzerland</provenance>
+		<geo_reference>47° 33′ 0″ N, 7° 44′ 0″ E</geo_reference>
+		<date_of_discovery>1961-2</date_of_discovery>
+		<circumstances_of_disc.>Found in the late Roman legionary fortress during excavations near to the south wall. Some items were thrown up by a bulldozer, others were recovered directly from disturbed Roman levels.</circumstances_of_disc.>
+		<reliability>1, 2</reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment>gilding; niello</surface_treatment>
+		<production_techniques></production_techniques>
+		<form>platter</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Central medallion and inscription naming Constans. The inscription reads ‘AVGVSTVS CONSTANS DAT LAETA DECENNIA VICTOR SPONDENS OMNIBVS TER TRICENNALIA FAVSTIS’. The outer rim has ten portrait busts of uncertain characters (not thought to be mythological, or related to the House of Constantine), and complex niello and gilt geometric interlocking motifs</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>342</date_(earliest)>
+		<date_(latest)>343</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>558</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)>127</d._(f'ring)>
+		<h_(total)>42</h_(total)>
+		<h_(f'ring)>9</h_(f'ring)>
+		<h_(exc._f'ring)>33</h_(exc._f'ring)>
+		<ratio_(f'rh/h't)>0</ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>3076</wt.>
+		<equivalent>9</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Römermuseum in Augst BL, Switzerland</disposition>
+		<inv._no.>1962.249a.b (cat. 59a.b)</inv._no.>
+		<bib._refs.>Laur-Belart 1963; Painter 1972, 90, nos. 34-6; Cahn &amp; Kaufmann-Heinimann 1984; Bland 1997, table 5, no. 382; Guggisberg and Kaufmann-Heinimann 2003; Wiegels 2003, nos. 63-65</bib._refs.>
+</object>
+<object>
+		<known_as>The Kaiseraugst Treasure</known_as>
+		<provenance>Switzerland</provenance>
+		<geo_reference>47° 33′ 0″ N, 7° 44′ 0″ E</geo_reference>
+		<date_of_discovery>1961-2</date_of_discovery>
+		<circumstances_of_disc.>Found in the late Roman legionary fortress during excavations near to the south wall. Some items were thrown up by a bulldozer, others were recovered directly from disturbed Roman levels.</circumstances_of_disc.>
+		<reliability>1, 2</reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment>gilding; niello</surface_treatment>
+		<production_techniques></production_techniques>
+		<form>platter</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Gilt, niello, rectangular. Elaborated border, figurative frieze. Central rectangular emblata showing Ariadne at the toilet</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>415</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>30</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>2769</wt.>
+		<equivalent>8</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Römermuseum in Augst BL, Switzerland</disposition>
+		<inv._no.>1962.252 (cat. 61)</inv._no.>
+		<bib._refs.>Laur-Belart 1963; Painter 1972, 90, nos. 34-6; Cahn &amp; Kaufmann-Heinimann 1984; Bland 1997, table 5, no. 382; Guggisberg and Kaufmann-Heinimann 2003; Wiegels 2003, nos. 63-65</bib._refs.>
+</object>
+<object>
+		<known_as>The Kaiseraugst Treasure</known_as>
+		<provenance>Switzerland</provenance>
+		<geo_reference>47° 33′ 0″ N, 7° 44′ 0″ E</geo_reference>
+		<date_of_discovery>1961-2</date_of_discovery>
+		<circumstances_of_disc.>Found in the late Roman legionary fortress during excavations near to the south wall. Some items were thrown up by a bulldozer, others were recovered directly from disturbed Roman levels.</circumstances_of_disc.>
+		<reliability>1, 2</reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>platter</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Gilt, niello, circular. Elaborate frieze, alternating hunting &amp; geometric.  Central medallion of coastal town. Graffiti underneath ‘FVNT’, ‘AQVILINI’, &amp; pontillé inscr. ‘(Chi-Rho XV.MVNC.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>340</date_(earliest)>
+		<date_(latest)>340</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>590</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>50</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>4749</wt.>
+		<equivalent>14</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Römermuseum in Augst BL, Switzerland</disposition>
+		<inv._no.>1962.2 (cat. 62)</inv._no.>
+		<bib._refs.>Laur-Belart 1963; Painter 1972, 90, nos. 34-6; Cahn &amp; Kaufmann-Heinimann 1984; Bland 1997, table 5, no. 382; Guggisberg and Kaufmann-Heinimann 2003; Wiegels 2003, nos. 63-65</bib._refs.>
+</object>
+<object>
+		<known_as>The Kaiseraugst Treasure</known_as>
+		<provenance>Switzerland</provenance>
+		<geo_reference>47° 33′ 0″ N, 7° 44′ 0″ E</geo_reference>
+		<date_of_discovery>1961-2</date_of_discovery>
+		<circumstances_of_disc.>Found in the late Roman legionary fortress during excavations near to the south wall. Some items were thrown up by a bulldozer, others were recovered directly from disturbed Roman levels.</circumstances_of_disc.>
+		<reliability>1, 2</reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>platter</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Eight sided, elaborate figurative frieze around rim. Nine scenes from life of Achilles. Pointillé inscr. underneath ‘ΠΑϒCϒΛϒΠΟϒ ΘΕCCΑΟΝΚΗC ΛΙΕ’ Graffiti in Greek</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>530</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>39</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>4642</wt.>
+		<equivalent>14</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Römermuseum in Augst BL, Switzerland</disposition>
+		<inv._no.>1962.1 (cat. 63)</inv._no.>
+		<bib._refs.>Laur-Belart 1963; Painter 1972, 90, nos. 34-6; Cahn &amp; Kaufmann-Heinimann 1984; Bland 1997, table 5, no. 382; Guggisberg and Kaufmann-Heinimann 2003; Wiegels 2003, nos. 63-65</bib._refs.>
+</object>
+<object>
+		<known_as>Kerch</known_as>
+		<provenance>Crimea</provenance>
+		<geo_reference>5° 21′ 43″ N, 36° 28′ 16″ E</geo_reference>
+		<date_of_discovery>1891</date_of_discovery>
+		<circumstances_of_disc.>This and the one below were found in a grave in Hospital St. Other objects beside these two vessels included 'a silver spoon a silver, or more probably gold crown, a silver dish, a buckle, and an amber ball' (T&amp;P 1986, 25).</circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>dish</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Probably with a footring, though this is no longer present. The vessel shows the triumphal entry of the emperor (probably Constantius II) on horseback riding r.; he is followed by a soldier, whilst Nike is in front of the horse but turns back.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>337</date_(earliest)>
+		<date_(latest)>361</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>249</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>39</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>599</wt.>
+		<equivalent>1</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Hermitage Museum, St. Petersburg</disposition>
+		<inv._no.>1820/ 79</inv._no.>
+		<bib._refs.>Effenberger et al. 1978, cat. 1, 78-81; Toynbee &amp; Painter 1986, no. 14</bib._refs.>
+</object>
+<object>
+		<known_as>Kostolac/Viminacium II</known_as>
+		<provenance>Serbia</provenance>
+		<geo_reference>44° 43′ 0″ N, 21° 10′ 0″ E</geo_reference>
+		<date_of_discovery></date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>bowl</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>With flanged rim. In centre of the base is a female bust facing left; on the flanged rim are 4 Bacchic masks, between which are animal hunt scenes: a lion is pursuing a ?stag, a ?bear a ?horse, a ?bear a deer and a ?female lion a ?stag.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>160</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>72</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>not known</wt.>
+		<equivalent></equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>National Museum, Belgrade; lost</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>Popovic 1994, 112, nos. 277-81; Baratte 2002, 27-8; Guggisberg &amp; Kaufmann-Heinimann 2003, 343, no. 79</bib._refs.>
+</object>
+<object>
+		<known_as>The Mildenhall Treasure</known_as>
+		<provenance>Great Britain</provenance>
+		<geo_reference>52° 20′ 54.28″ N, 0° 27′ 45.36″ E</geo_reference>
+		<date_of_discovery>1942/3</date_of_discovery>
+		<circumstances_of_disc.>Discovered by farmer Gordon Butcher and dug up by Butcher and his boss Sydney Ford. The exact location of the burial pit is not known.</circumstances_of_disc.>
+		<reliability>1, 2</reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>platter</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Bacchic platter</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>350</date_(earliest)>
+		<date_(latest)>375</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>605</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)>210</d._(f'ring)>
+		<h_(total)>61</h_(total)>
+		<h_(f'ring)>21</h_(f'ring)>
+		<h_(exc._f'ring)>40</h_(exc._f'ring)>
+		<ratio_(f'rh/h't)>0</ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>8256</wt.>
+		<equivalent>25</equivalent>
+		<capacity></capacity>
+		<rim_type>beaded</rim_type>
+		<no._beads>135</no._beads>
+		<d._mean>12</d._mean>
+		<disposition>The British Museum</disposition>
+		<inv._no.>1946, 1007.1</inv._no.>
+		<bib._refs.>Hobbs 2016, cat. 1</bib._refs.>
+</object>
+<object>
+		<known_as>The Mildenhall Treasure</known_as>
+		<provenance>Great Britain</provenance>
+		<geo_reference>52° 20′ 54.28″ N, 0° 27′ 45.36″ E</geo_reference>
+		<date_of_discovery>1942/3</date_of_discovery>
+		<circumstances_of_disc.>Discovered by farmer Gordon Butcher and dug up by Butcher and his boss Sydney Ford. The exact location of the burial pit is not known.</circumstances_of_disc.>
+		<reliability>1, 2</reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>plate</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Bacchic plate</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>350</date_(earliest)>
+		<date_(latest)>375</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>188</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)>62</d._(f'ring)>
+		<h_(total)>25</h_(total)>
+		<h_(f'ring)>10</h_(f'ring)>
+		<h_(exc._f'ring)>15</h_(exc._f'ring)>
+		<ratio_(f'rh/h't)>0</ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>539</wt.>
+		<equivalent>1</equivalent>
+		<capacity></capacity>
+		<rim_type>beaded</rim_type>
+		<no._beads>65</no._beads>
+		<d._mean>5</d._mean>
+		<disposition>The British Museum</disposition>
+		<inv._no.>1946, 1007.2</inv._no.>
+		<bib._refs.>Hobbs 2016, cat. 2</bib._refs.>
+</object>
+<object>
+		<known_as>The Mildenhall Treasure</known_as>
+		<provenance>Great Britain</provenance>
+		<geo_reference>52° 20′ 54.28″ N, 0° 27′ 45.36″ E</geo_reference>
+		<date_of_discovery>1942/3</date_of_discovery>
+		<circumstances_of_disc.>Discovered by farmer Gordon Butcher and dug up by Butcher and his boss Sydney Ford. The exact location of the burial pit is not known.</circumstances_of_disc.>
+		<reliability>1, 2</reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>plate</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Bacchic plate</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>350</date_(earliest)>
+		<date_(latest)>375</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>185</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)>64</d._(f'ring)>
+		<h_(total)>25</h_(total)>
+		<h_(f'ring)>10</h_(f'ring)>
+		<h_(exc._f'ring)>15</h_(exc._f'ring)>
+		<ratio_(f'rh/h't)>0</ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>613</wt.>
+		<equivalent>1</equivalent>
+		<capacity></capacity>
+		<rim_type>beaded</rim_type>
+		<no._beads>64</no._beads>
+		<d._mean>6</d._mean>
+		<disposition>The British Museum</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>Hobbs 2016, cat. 3</bib._refs.>
+</object>
+<object>
+		<known_as>The Mildenhall Treasure</known_as>
+		<provenance>Great Britain</provenance>
+		<geo_reference>52° 20′ 54.28″ N, 0° 27′ 45.36″ E</geo_reference>
+		<date_of_discovery>1942/3</date_of_discovery>
+		<circumstances_of_disc.>Discovered by farmer Gordon Butcher and dug up by Butcher and his boss Sydney Ford. The exact location of the burial pit is not known.</circumstances_of_disc.>
+		<reliability>1, 2</reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>bowl</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Flanged bowl, hunter and bear</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>350</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>297</d_(total)>
+		<w_(rim)>54</w_(rim)>
+		<d_(exc._rim)>189</d_(exc._rim)>
+		<d._(f'ring)>101</d._(f'ring)>
+		<h_(total)>92</h_(total)>
+		<h_(f'ring)>20</h_(f'ring)>
+		<h_(exc._f'ring)>68</h_(exc._f'ring)>
+		<ratio_(f'rh/h't)>0</ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>1718</wt.>
+		<equivalent>5</equivalent>
+		<capacity>1497</capacity>
+		<rim_type>beaded</rim_type>
+		<no._beads>63</no._beads>
+		<d._mean>11</d._mean>
+		<disposition>The British Museum</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>Hobbs 2016, cat. 5</bib._refs.>
+</object>
+<object>
+		<known_as>The Mildenhall Treasure</known_as>
+		<provenance>Great Britain</provenance>
+		<geo_reference>52° 20′ 54.28″ N, 0° 27′ 45.36″ E</geo_reference>
+		<date_of_discovery>1942/3</date_of_discovery>
+		<circumstances_of_disc.>Discovered by farmer Gordon Butcher and dug up by Butcher and his boss Sydney Ford. The exact location of the burial pit is not known.</circumstances_of_disc.>
+		<reliability>1, 2</reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>bowl</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Flanged bowl, Alexander</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>350</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>266</d_(total)>
+		<w_(rim)>48</w_(rim)>
+		<d_(exc._rim)>168</d_(exc._rim)>
+		<d._(f'ring)>88</d._(f'ring)>
+		<h_(total)>90</h_(total)>
+		<h_(f'ring)>20</h_(f'ring)>
+		<h_(exc._f'ring)>64</h_(exc._f'ring)>
+		<ratio_(f'rh/h't)>0</ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>1301</wt.>
+		<equivalent>3</equivalent>
+		<capacity>1229</capacity>
+		<rim_type>beaded</rim_type>
+		<no._beads>66</no._beads>
+		<d._mean>9</d._mean>
+		<disposition>The British Museum</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>Hobbs 2016, cat. 6</bib._refs.>
+</object>
+<object>
+		<known_as>The Mildenhall Treasure</known_as>
+		<provenance>Great Britain</provenance>
+		<geo_reference>52° 20′ 54.28″ N, 0° 27′ 45.36″ E</geo_reference>
+		<date_of_discovery>1942/3</date_of_discovery>
+		<circumstances_of_disc.>Discovered by farmer Gordon Butcher and dug up by Butcher and his boss Sydney Ford. The exact location of the burial pit is not known.</circumstances_of_disc.>
+		<reliability>1, 2</reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>bowl</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Flanged bowl, Olympias</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>350</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>266</d_(total)>
+		<w_(rim)>47</w_(rim)>
+		<d_(exc._rim)>171</d_(exc._rim)>
+		<d._(f'ring)>89</d._(f'ring)>
+		<h_(total)>87</h_(total)>
+		<h_(f'ring)>22</h_(f'ring)>
+		<h_(exc._f'ring)>62</h_(exc._f'ring)>
+		<ratio_(f'rh/h't)>0</ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>1320</wt.>
+		<equivalent>4</equivalent>
+		<capacity>1069</capacity>
+		<rim_type>beaded</rim_type>
+		<no._beads>66</no._beads>
+		<d._mean>10</d._mean>
+		<disposition>The British Museum</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>Hobbs 2016, cat. 7</bib._refs.>
+</object>
+<object>
+		<known_as>The Mildenhall Treasure</known_as>
+		<provenance>Great Britain</provenance>
+		<geo_reference>52° 20′ 54.28″ N, 0° 27′ 45.36″ E</geo_reference>
+		<date_of_discovery>1942/3</date_of_discovery>
+		<circumstances_of_disc.>Discovered by farmer Gordon Butcher and dug up by Butcher and his boss Sydney Ford. The exact location of the burial pit is not known.</circumstances_of_disc.>
+		<reliability>1, 2</reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>bowl</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Flanged bowl, ?maenad</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>350</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>269</d_(total)>
+		<w_(rim)>46</w_(rim)>
+		<d_(exc._rim)>173</d_(exc._rim)>
+		<d._(f'ring)>90</d._(f'ring)>
+		<h_(total)>87</h_(total)>
+		<h_(f'ring)>20</h_(f'ring)>
+		<h_(exc._f'ring)>60</h_(exc._f'ring)>
+		<ratio_(f'rh/h't)>0</ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>1271</wt.>
+		<equivalent>3</equivalent>
+		<capacity>1095</capacity>
+		<rim_type>beaded</rim_type>
+		<no._beads>67</no._beads>
+		<d._mean>10</d._mean>
+		<disposition>The British Museum</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>Hobbs 2016, cat. 8</bib._refs.>
+</object>
+<object>
+		<known_as>The Mildenhall Treasure</known_as>
+		<provenance>Great Britain</provenance>
+		<geo_reference>52° 20′ 54.28″ N, 0° 27′ 45.36″ E</geo_reference>
+		<date_of_discovery>1942/3</date_of_discovery>
+		<circumstances_of_disc.>Discovered by farmer Gordon Butcher and dug up by Butcher and his boss Sydney Ford. The exact location of the burial pit is not known.</circumstances_of_disc.>
+		<reliability>1, 2</reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>cover</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Cover of flanged bowl</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>197</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>80</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>391</wt.>
+		<equivalent>1</equivalent>
+		<capacity>1127</capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>The British Museum</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>Hobbs 2016, cat. 12</bib._refs.>
+</object>
+<object>
+		<known_as>The 'Munich' Treasure</known_as>
+		<provenance>Unprovenanced</provenance>
+		<geo_reference></geo_reference>
+		<date_of_discovery>c1972</date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>bowl</form>
+		<ratio_(h/d)></ratio_(h/d)>
+		<completeness></completeness>
+		<description>Licinius I, central medallion stamp and inscription ‘LICINIVS AVG OB D V LICINI FILI’ (Licinius ob diem quinquennaliroum Lininii, filii sui - the emperor Licinius on the occasion of the celebration of five years rule by his son Licinius). Nicomedia stamp ‘NIKO/AID/A; (Workshop 1 of the mint at Nicomedia in Bithynia, under the control of Aidesios).</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>321</date_(earliest)>
+		<date_(latest)>322</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>179</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>?</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>323</wt.>
+		<equivalent>0</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Bayerische Hypotheken und Wechsel-Bank, Munich</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>Overbeck 1973; Kent &amp; Painter 1977; Beck &amp; Bol 1983, 419-24, no. 37 (3)</bib._refs.>
+</object>
+<object>
+		<known_as>The 'Munich' Treasure</known_as>
+		<provenance>Unprovenanced</provenance>
+		<geo_reference></geo_reference>
+		<date_of_discovery>c1972</date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>bowl</form>
+		<ratio_(h/d)></ratio_(h/d)>
+		<completeness></completeness>
+		<description>Licinius II, central medallion of Lic. II, inscr. around ‘LICINIVS CAES OB D V SVORVM’ (Licinius Caesar ob diem quinquennaliorum surum). Also stamp ‘NIKO/EYT/NEB’  (at Nikomedia under control of Eutropios or Eutychianos).</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>321</date_(earliest)>
+		<date_(latest)>322</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>179</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)></h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>321</wt.>
+		<equivalent>0</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Bayerische Hypotheken und Wechsel-Bank, Munich</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>Overbeck 1973; Kent &amp; Painter 1977; Beck &amp; Bol 1983, 419-24, no. 37 (3)</bib._refs.>
+</object>
+<object>
+		<known_as>The 'Munich' Treasure</known_as>
+		<provenance>Unprovenanced</provenance>
+		<geo_reference></geo_reference>
+		<date_of_discovery>c1972</date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>bowl</form>
+		<ratio_(h/d)></ratio_(h/d)>
+		<completeness></completeness>
+		<description>Licinius II, central medallion of Lic. II, inscr. around ‘LICINIVS CAES OB D V SVORVM’ (Licinius Caesar ob diem quinquennaliorum surum). Also stamp ‘ANT/ETCTO/A’  (workshop 1 at Antioch, under control of Eustochios).</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>321</date_(earliest)>
+		<date_(latest)>322</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>187</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)></h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>315</wt.>
+		<equivalent>0</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Bayerische Hypotheken und Wechsel-Bank, Munich</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>Overbeck 1973; Kent &amp; Painter 1977; Beck &amp; Bol 1983, 419-24, no. 37 (3)</bib._refs.>
+</object>
+<object>
+		<known_as>The 'Munich' Treasure</known_as>
+		<provenance>Unprovenanced</provenance>
+		<geo_reference></geo_reference>
+		<date_of_discovery>c1972</date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>bowl</form>
+		<ratio_(h/d)></ratio_(h/d)>
+		<completeness></completeness>
+		<description>Licinius II. inscription on inside of bowl 'VOTIS X CAESS NN', also 'NAIS' (workshop Nis).</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>321</date_(earliest)>
+		<date_(latest)>322</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>225</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)></h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>470</wt.>
+		<equivalent>1</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Bayerische Hypotheken und Wechsel-Bank, Munich</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>Overbeck 1973; Kent &amp; Painter 1977; Beck &amp; Bol 1983, 419-24, no. 37 (3)</bib._refs.>
+</object>
+<object>
+		<known_as>The 'Munich' Treasure</known_as>
+		<provenance>Unprovenanced</provenance>
+		<geo_reference></geo_reference>
+		<date_of_discovery>c1972</date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>bowl</form>
+		<ratio_(h/d)></ratio_(h/d)>
+		<completeness></completeness>
+		<description>Licinius II, inscription on inside of bowl 'VOTIS X CAESARIS NOSTRI', also '(ANTIO)XIAC' (workshop Antoich).</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>321</date_(earliest)>
+		<date_(latest)>322</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>244</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)></h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>421</wt.>
+		<equivalent>1</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Bayerische Hypotheken und Wechsel-Bank, Munich</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>Overbeck 1973; Kent &amp; Painter 1977; Beck &amp; Bol 1983, 419-24, no. 37 (3)</bib._refs.>
+</object>
+<object>
+		<known_as>Naissus</known_as>
+		<provenance>Serbia</provenance>
+		<geo_reference>43° 18′ 0″ N, 21° 54′ 0″ E</geo_reference>
+		<date_of_discovery>1901</date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>dish</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Commemorating the Decennalia of Licinius in AD317. Inscription ‘LICINI AVGVSTE SEMPER VINCAS’, in centre, ‘SIC X SIC XX’</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>296</date_(earliest)>
+		<date_(latest)>317</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>169</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>40</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>309</wt.>
+		<equivalent>0</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Belgrade National Museum</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>Tait 1970; Noll 1974; Oliver 1978, no. 118; Toynbee &amp; Painter 1986</bib._refs.>
+</object>
+<object>
+		<known_as>Naissus</known_as>
+		<provenance>Serbia</provenance>
+		<geo_reference>43° 18′ 0″ N, 21° 54′ 0″ E</geo_reference>
+		<date_of_discovery>1901</date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>dish</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Commemorating the Decennalia of Licinius in AD317. Inscription ‘LICINI AVGVSTE SEMPER VINCAS’, in centre, ‘SIC X SIC XX’</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>296</date_(earliest)>
+		<date_(latest)>317</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>169</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>45</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>289</wt.>
+		<equivalent>0</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Belgrade National Museum</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>Tait 1970; Noll 1974; Oliver 1978, no. 118; Toynbee &amp; Painter 1986</bib._refs.>
+</object>
+<object>
+		<known_as>Naissus</known_as>
+		<provenance>Serbia</provenance>
+		<geo_reference>43° 18′ 0″ N, 21° 54′ 0″ E</geo_reference>
+		<date_of_discovery>1901</date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>dish</form>
+		<ratio_(h/d)></ratio_(h/d)>
+		<completeness></completeness>
+		<description>Commemorating the Decennalia of Licinius in AD317. Inscription ‘LICINI AVGVSTE SEMPER VINCAS’, in centre, ‘SIC X SIC XX’</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>296</date_(earliest)>
+		<date_(latest)>317</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>168</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>?</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>308</wt.>
+		<equivalent>0</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Kunsthistorisches Museum, Vienna</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>Tait 1970; Noll 1974; Oliver 1978, no. 118; Toynbee &amp; Painter 1986; Popovic 1994, no. 342</bib._refs.>
+</object>
+<object>
+		<known_as>Naissus</known_as>
+		<provenance>Serbia</provenance>
+		<geo_reference>43° 18′ 0″ N, 21° 54′ 0″ E</geo_reference>
+		<date_of_discovery>1901</date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>dish</form>
+		<ratio_(h/d)></ratio_(h/d)>
+		<completeness></completeness>
+		<description>Commemorating the Decennalia of Licinius in AD317. Inscription ‘LICINI AVGVSTE SEMPER VINCAS’, in centre, ‘SIC X SIC XX’</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>296</date_(earliest)>
+		<date_(latest)>317</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>182</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>?</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>304</wt.>
+		<equivalent>0</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>British Museum</disposition>
+		<inv._no.>1969, 0904.1</inv._no.>
+		<bib._refs.>Tait 1970; Noll 1974; Oliver 1978, no. 118; Toynbee &amp; Painter 1986; Popovic 1994, no. 343</bib._refs.>
+</object>
+<object>
+		<known_as>Naissus</known_as>
+		<provenance>Serbia</provenance>
+		<geo_reference>43° 18′ 0″ N, 21° 54′ 0″ E</geo_reference>
+		<date_of_discovery>1901</date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>dish</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Commemorating the Decennalia of Licinius in AD317. Inscription ‘LICINI AVGVSTE SEMPER VINCAS’, in centre, ‘SIC X SIC XX’</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>296</date_(earliest)>
+		<date_(latest)>317</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>165</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>38</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>315</wt.>
+		<equivalent>0</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Museum of Fine Arts, Boston</disposition>
+		<inv._no.>1970</inv._no.>
+		<bib._refs.>Tait 1970; Noll 1974; Oliver 1978, no. 118; Toynbee &amp; Painter 1986; Popovic 1994, no. 344</bib._refs.>
+</object>
+<object>
+		<known_as>Northern Syria'</known_as>
+		<provenance>Syria</provenance>
+		<geo_reference></geo_reference>
+		<date_of_discovery></date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>platter</form>
+		<ratio_(h/d)></ratio_(h/d)>
+		<completeness></completeness>
+		<description>Beaded and flanged rim, central footring. Undecorated except for central medallion, which shows a hunter on horseback spearing a lion.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>410</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)></h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>?</wt.>
+		<equivalent></equivalent>
+		<capacity></capacity>
+		<rim_type>beaded</rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Richmond, Virginia Museum of Fine Arts</disposition>
+		<inv._no.>no. 66.77</inv._no.>
+		<bib._refs.>Mango ref., no. 101</bib._refs.>
+</object>
+<object>
+		<known_as>Parabiago</known_as>
+		<provenance>Italy</provenance>
+		<geo_reference>45° 33′ 0″ N, 8° 57′ 0″ E</geo_reference>
+		<date_of_discovery>1907</date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>platter</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Circular with footring. Figurative scene in three areas, central scene of Cybele &amp; Attis in a chariot drawn by four lions. Helios &amp; Selene are at the top, Neptune &amp; Thetis at the bottom emerging from the ocean.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>390</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)>158</d._(f'ring)>
+		<h_(total)>54</h_(total)>
+		<h_(f'ring)>26</h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>3555</wt.>
+		<equivalent>10</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Museo del Castello Sforzesco, Milan</disposition>
+		<inv._no.>ST.5986</inv._no.>
+		<bib._refs.>Musso 1983</bib._refs.>
+</object>
+<object>
+		<known_as>Pietroasa</known_as>
+		<provenance>Romania</provenance>
+		<geo_reference>45° 6′ 0″ N, 26° 34′ 0″ E</geo_reference>
+		<date_of_discovery>1837</date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>gold</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>dish</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Central statue, decorative friezes.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)></date_(earliest)>
+		<date_(latest)></date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>257</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>75</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.></wt.>
+		<equivalent></equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition></disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.></bib._refs.>
+</object>
+<object>
+		<known_as>The Risley Park lanx</known_as>
+		<provenance>Great Britain</provenance>
+		<geo_reference>52.56N 1.19W</geo_reference>
+		<date_of_discovery>1729</date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>platter</form>
+		<ratio_(h/d)></ratio_(h/d)>
+		<completeness></completeness>
+		<description>(in six fragments): rectangular, with horiz. rim &amp; small rectangular foot. Prob. parcel gilt. Inscribed on underside ‘EX SVPERIVS EPISCOPVS ECLESIAE BOGIENSI DEDIT (Chi Rho)’</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>510</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)></h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>n/a</wt.>
+		<equivalent></equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>n/a</disposition>
+		<inv._no.>Lost</inv._no.>
+		<bib._refs.>Stukeley 1736; Johns 1981; Toynbee &amp; Painter 1986, no. 50</bib._refs.>
+</object>
+<object>
+		<known_as>The Esquiline Treasure</known_as>
+		<provenance>Italy</provenance>
+		<geo_reference>41° 54′ 0″ N, 12° 30′ 0″ E</geo_reference>
+		<date_of_discovery>1793</date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>casket</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>(Proiecta): oblong, truncated pyramid. Panels with various toilet scenes; details such as vine scroll motifs. Drop handles similar to fluted bowl but not swan's heads.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>559</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>286</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>8200</wt.>
+		<equivalent>25</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>BM</disposition>
+		<inv._no.>1866, 1229.1</inv._no.>
+		<bib._refs.>Lanciani 1892; Dalton 1901; Kent &amp; Painter 1977 (88-98); Shelton 1981; Ridley 1996</bib._refs.>
+</object>
+<object>
+		<known_as>The Esquiline Treasure</known_as>
+		<provenance>Italy</provenance>
+		<geo_reference>41° 54′ 0″ N, 12° 30′ 0″ E</geo_reference>
+		<date_of_discovery>1793</date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>casket</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>circular with domed cover with 16 decorative panels. A cantharus with birds etc alternates with standing or seated figures; a woman at her toilet and attendants with various objects.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>327</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>267</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>?</wt.>
+		<equivalent></equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>BM</disposition>
+		<inv._no.>1866, 1229.2</inv._no.>
+		<bib._refs.>Lanciani 1892; Dalton 1901; Kent &amp; Painter 1977 (88-98); Shelton 1981; Ridley 1996</bib._refs.>
+</object>
+<object>
+		<known_as>The Esquiline Treasure</known_as>
+		<provenance>Italy</provenance>
+		<geo_reference>41° 54′ 0″ N, 12° 30′ 0″ E</geo_reference>
+		<date_of_discovery>1793</date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>dish</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>fluted, with form almost identical to cat. 15, apart from the fact that it has 24 alternate panels instead of 28. Some of the leaf pattern deco' is virtually identical.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>562</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>105</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>2703</wt.>
+		<equivalent>8</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>BM</disposition>
+		<inv._no.>1866, 1229.3</inv._no.>
+		<bib._refs.>Lanciani 1892; Dalton 1901; Kent &amp; Painter 1977 (88-98); Shelton 1981; Ridley 1996</bib._refs.>
+</object>
+<object>
+		<known_as>The Esquiline Treasure</known_as>
+		<provenance>Italy</provenance>
+		<geo_reference>41° 54′ 0″ N, 12° 30′ 0″ E</geo_reference>
+		<date_of_discovery>1793</date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>flask</form>
+		<ratio_(h/d)></ratio_(h/d)>
+		<completeness></completeness>
+		<description>Ovoid body, spiral deco' with forms panels in which are placed various motifs, e.g. fruit, leaves, grape clusters, birds, rabbits, recumbent sheep, grazing goats, leaping hare</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>?</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>346</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>?</wt.>
+		<equivalent></equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>BM</disposition>
+		<inv._no.>1866, 1229.4</inv._no.>
+		<bib._refs.>Lanciani 1892; Dalton 1901; Kent &amp; Painter 1977 (88-98); Shelton 1981; Ridley 1996</bib._refs.>
+</object>
+<object>
+		<known_as>Šabac?</known_as>
+		<provenance>Serbia</provenance>
+		<geo_reference>4° 45′ 0″ N, 19° 42′ 0″ E</geo_reference>
+		<date_of_discovery>c1903-8</date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>bowl</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Flanged, with no decoration in centre of base; beaded rim, with inner rim of beads; 4 masks of gods, between which are animals at rest (for a full descrip., see Baratte 1992, 26-7)</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>182</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>61</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>484</wt.>
+		<equivalent>1</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Antikensammlung du Kunsthistorisches Museum de Vienna</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>Baratte 2002, 26-27; Vassits 1903; Noll 1974, no. 23b, p. 21</bib._refs.>
+</object>
+<object>
+		<known_as>The 'Seuso' Treasure</known_as>
+		<provenance>unprovenanced</provenance>
+		<geo_reference></geo_reference>
+		<date_of_discovery>1978?</date_of_discovery>
+		<circumstances_of_disc.>Possibly discovered near Lake Balaton in Hungary</circumstances_of_disc.>
+		<reliability>2, 3</reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>platter</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Rim double frieze of hunting and geometric; central medallion shows outdoor dining scene; inscription SEVSO, PELSO etc.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>705</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)>51</d._(f'ring)>
+		<h_(total)>30</h_(total)>
+		<h_(f'ring)>8</h_(f'ring)>
+		<h_(exc._f'ring)>22</h_(exc._f'ring)>
+		<ratio_(f'rh/h't)>0</ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>8873</wt.>
+		<equivalent>27</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Hungarian National Museum, Budapest</disposition>
+		<inv._no.>cat. 1</inv._no.>
+		<bib._refs.>Mango &amp; Bennett 1994</bib._refs.>
+</object>
+<object>
+		<known_as>The 'Seuso' Treasure</known_as>
+		<provenance>unprovenanced</provenance>
+		<geo_reference></geo_reference>
+		<date_of_discovery>1978?</date_of_discovery>
+		<circumstances_of_disc.>Possibly discovered near Lake Balaton in Hungary</circumstances_of_disc.>
+		<reliability>2, 3</reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>platter</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Central medallion with Meleager, Paris etc; frieze on outer rim sep. by 6 busts; area between flat rim and central medallion deco' with foliate leaf pattern.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>694</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)>217</d._(f'ring)>
+		<h_(total)>58</h_(total)>
+		<h_(f'ring)>23</h_(f'ring)>
+		<h_(exc._f'ring)>35</h_(exc._f'ring)>
+		<ratio_(f'rh/h't)>0</ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>8606</wt.>
+		<equivalent>26</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Northumberland</disposition>
+		<inv._no.>cat. 2</inv._no.>
+		<bib._refs.>Mango &amp; Bennett 1994</bib._refs.>
+</object>
+<object>
+		<known_as>The 'Seuso' Treasure</known_as>
+		<provenance>unprovenanced</provenance>
+		<geo_reference></geo_reference>
+		<date_of_discovery>1978?</date_of_discovery>
+		<circumstances_of_disc.>Possibly discovered near Lake Balaton in Hungary</circumstances_of_disc.>
+		<reliability>2, 3</reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>platter</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Central medallion and frieze on outer rim sep. by 4 masks area between flat rim and central medallion plain. Scenes depict Achilles, Dionysus, Athena, Poseidon.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>720</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)>203</d._(f'ring)>
+		<h_(total)>59</h_(total)>
+		<h_(f'ring)>31</h_(f'ring)>
+		<h_(exc._f'ring)>28</h_(exc._f'ring)>
+		<ratio_(f'rh/h't)>0</ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>11786</wt.>
+		<equivalent>35</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Northumberland</disposition>
+		<inv._no.>cat. 3</inv._no.>
+		<bib._refs.>Mango &amp; Bennett 1994</bib._refs.>
+</object>
+<object>
+		<known_as>The 'Seuso' Treasure</known_as>
+		<provenance>unprovenanced</provenance>
+		<geo_reference></geo_reference>
+		<date_of_discovery>1978?</date_of_discovery>
+		<circumstances_of_disc.>Possibly discovered near Lake Balaton in Hungary</circumstances_of_disc.>
+		<reliability>2, 3</reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>amphora</form>
+		<ratio_(h/d)>15</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Panther handles, 3 zones of deco' on body; animal, Dionysiac and marine.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>245</d_(total)>
+		<w_(rim)>25</w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)>103</d._(f'ring)>
+		<h_(total)>385</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>2506</wt.>
+		<equivalent>7</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Hungarian National Museum, Budapest</disposition>
+		<inv._no.>cat. 5</inv._no.>
+		<bib._refs.>Mango &amp; Bennett 1994</bib._refs.>
+</object>
+<object>
+		<known_as>The 'Seuso' Treasure</known_as>
+		<provenance>unprovenanced</provenance>
+		<geo_reference></geo_reference>
+		<date_of_discovery>1978?</date_of_discovery>
+		<circumstances_of_disc.>Possibly discovered near Lake Balaton in Hungary</circumstances_of_disc.>
+		<reliability>2, 3</reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>ewer</form>
+		<ratio_(h/d)>3</ratio_(h/d)>
+		<completeness></completeness>
+		<description>8 vertical facets, Dionysiac figures and foliage</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>555</d_(total)>
+		<w_(rim)>118</w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)>13</d._(f'ring)>
+		<h_(total)>435</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>c3000</wt.>
+		<equivalent>9</equivalent>
+		<capacity>c4000</capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Northumberland</disposition>
+		<inv._no.>cat. 6</inv._no.>
+		<bib._refs.>Mango &amp; Bennett 1994</bib._refs.>
+</object>
+<object>
+		<known_as>The 'Seuso' Treasure</known_as>
+		<provenance>unprovenanced</provenance>
+		<geo_reference></geo_reference>
+		<date_of_discovery>1978?</date_of_discovery>
+		<circumstances_of_disc.>Possibly discovered near Lake Balaton in Hungary</circumstances_of_disc.>
+		<reliability>2, 3</reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>ewer</form>
+		<ratio_(h/d)>11</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Ovoid ewer divided into 10 vertical facets, grid of 120 nielloed 6 sided pendants with animals, geometric designs, hunters</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>61</d_(total)>
+		<w_(rim)>45</w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)>135</d._(f'ring)>
+		<h_(total)>510</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>3983</wt.>
+		<equivalent>12</equivalent>
+		<capacity>c4000</capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Northumberland</disposition>
+		<inv._no.>cat. 7</inv._no.>
+		<bib._refs.>Mango &amp; Bennett 1994</bib._refs.>
+</object>
+<object>
+		<known_as>The 'Seuso' Treasure</known_as>
+		<provenance>unprovenanced</provenance>
+		<geo_reference></geo_reference>
+		<date_of_discovery>1978?</date_of_discovery>
+		<circumstances_of_disc.>Possibly discovered near Lake Balaton in Hungary</circumstances_of_disc.>
+		<reliability>2, 3</reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>situla</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Hippolytus and phaedra; griffin feet.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>242</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>227</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>4435</wt.>
+		<equivalent>13</equivalent>
+		<capacity></capacity>
+		<rim_type>beaded</rim_type>
+		<no._beads></no._beads>
+		<d._mean>12</d._mean>
+		<disposition>Northumberland</disposition>
+		<inv._no.>cat. 8</inv._no.>
+		<bib._refs.>Mango &amp; Bennett 1994</bib._refs.>
+</object>
+<object>
+		<known_as>The 'Seuso' Treasure</known_as>
+		<provenance>unprovenanced</provenance>
+		<geo_reference></geo_reference>
+		<date_of_discovery>1978?</date_of_discovery>
+		<circumstances_of_disc.>Possibly discovered near Lake Balaton in Hungary</circumstances_of_disc.>
+		<reliability>2, 3</reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>situla</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Hippolytus and phaedra; griffin feet.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>243</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>229</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>4478</wt.>
+		<equivalent>13</equivalent>
+		<capacity></capacity>
+		<rim_type>beaded</rim_type>
+		<no._beads></no._beads>
+		<d._mean>12</d._mean>
+		<disposition>Northumberland</disposition>
+		<inv._no.>cat. 9</inv._no.>
+		<bib._refs.>Mango &amp; Bennett 1994</bib._refs.>
+</object>
+<object>
+		<known_as>The 'Seuso' Treasure</known_as>
+		<provenance>unprovenanced</provenance>
+		<geo_reference></geo_reference>
+		<date_of_discovery>1978?</date_of_discovery>
+		<circumstances_of_disc.>Possibly discovered near Lake Balaton in Hungary</circumstances_of_disc.>
+		<reliability>2, 3</reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>ewer</form>
+		<ratio_(h/d)>2</ratio_(h/d)>
+		<completeness></completeness>
+		<description>3 deco' zones, Hippolytus and Phaedra, hunting and foliage</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>120</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>313</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>4051</wt.>
+		<equivalent>12</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Northumberland</disposition>
+		<inv._no.>cat. 10</inv._no.>
+		<bib._refs.>Mango &amp; Bennett 1994</bib._refs.>
+</object>
+<object>
+		<known_as>The 'Seuso' Treasure</known_as>
+		<provenance>unprovenanced</provenance>
+		<geo_reference></geo_reference>
+		<date_of_discovery>1978?</date_of_discovery>
+		<circumstances_of_disc.>Possibly discovered near Lake Balaton in Hungary</circumstances_of_disc.>
+		<reliability>2, 3</reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>ewer</form>
+		<ratio_(h/d)>4</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Body decorated with geometric designs within roundels</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>112</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>528</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>2804</wt.>
+		<equivalent>8</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Northumberland</disposition>
+		<inv._no.>cat. 11</inv._no.>
+		<bib._refs.>Mango &amp; Bennett 1994</bib._refs.>
+</object>
+<object>
+		<known_as>The 'Seuso' Treasure</known_as>
+		<provenance>unprovenanced</provenance>
+		<geo_reference></geo_reference>
+		<date_of_discovery>1978?</date_of_discovery>
+		<circumstances_of_disc.>Possibly discovered near Lake Balaton in Hungary</circumstances_of_disc.>
+		<reliability>2, 3</reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>ewer</form>
+		<ratio_(h/d)>5</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Body decorated with geometric designs within roundels</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>110</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>550</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>2671</wt.>
+		<equivalent>8</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Northumberland</disposition>
+		<inv._no.>cat. 12</inv._no.>
+		<bib._refs.>Mango &amp; Bennett 1994</bib._refs.>
+</object>
+<object>
+		<known_as>The 'Seuso' Treasure</known_as>
+		<provenance>unprovenanced</provenance>
+		<geo_reference></geo_reference>
+		<date_of_discovery>1978?</date_of_discovery>
+		<circumstances_of_disc.>Possibly discovered near Lake Balaton in Hungary</circumstances_of_disc.>
+		<reliability>2, 3</reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>dish</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Spirally fluted body, beaded rim, low footring; central decorative medallion</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>468</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>125</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>2118</wt.>
+		<equivalent>6</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Northumberland</disposition>
+		<inv._no.>cat. 13</inv._no.>
+		<bib._refs.>Mango &amp; Bennett 1994</bib._refs.>
+</object>
+<object>
+		<known_as>The 'Seuso' Treasure</known_as>
+		<provenance>unprovenanced</provenance>
+		<geo_reference></geo_reference>
+		<date_of_discovery>1978?</date_of_discovery>
+		<circumstances_of_disc.>Possibly discovered near Lake Balaton in Hungary</circumstances_of_disc.>
+		<reliability>2, 3</reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>casket</form>
+		<ratio_(h/d)>1</ratio_(h/d)>
+		<completeness></completeness>
+		<description>domed lid, holes for toilet flasks; body decorated with bath scenes.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>300</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>210</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>320</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>2051</wt.>
+		<equivalent>6</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>Northumberland</disposition>
+		<inv._no.>cat. 14</inv._no.>
+		<bib._refs.>Mango &amp; Bennett 1994</bib._refs.>
+</object>
+<object>
+		<known_as>The Sutton Hoo ship burial</known_as>
+		<provenance>Great Britain</provenance>
+		<geo_reference>52° 5′ 21.55″ N, 1° 20′ 18.31″ E</geo_reference>
+		<date_of_discovery>1939</date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>bowl</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Fluted, central roundel with female head in profile. Kymation frieze of chased 3-petalled flowers. Drop handles, out-turned rim.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)></date_(earliest)>
+		<date_(latest)></date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>410</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>150</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>2246</wt.>
+		<equivalent>6</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>BM</disposition>
+		<inv._no.>1939, 1010.77</inv._no.>
+		<bib._refs.>Bruce-Mitford 1975; 1979; 1983; Kent and Painter 1977 (236-92)</bib._refs.>
+</object>
+<object>
+		<known_as>Tăuteni</known_as>
+		<provenance>Romania</provenance>
+		<geo_reference>47° 16′ 0″ N, 22° 20′ 0″ E</geo_reference>
+		<date_of_discovery></date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>ewer</form>
+		<ratio_(h/d)></ratio_(h/d)>
+		<completeness></completeness>
+		<description>Fragments only. For description, see Dumitrascu paper.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)></date_(earliest)>
+		<date_(latest)></date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)></d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)></h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.></wt.>
+		<equivalent></equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>?</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>Dumitrascu 1973; Guggisberg &amp; Kaufmann-Heinimann 2003, 344. no. 87</bib._refs.>
+</object>
+<object>
+		<known_as>Tăuteni</known_as>
+		<provenance>Romania</provenance>
+		<geo_reference>47° 16′ 0″ N, 22° 20′ 0″ E</geo_reference>
+		<date_of_discovery></date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>ewer</form>
+		<ratio_(h/d)></ratio_(h/d)>
+		<completeness></completeness>
+		<description>Fragments only. For description, see Dumitrascu paper.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)></date_(earliest)>
+		<date_(latest)></date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)></d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)></h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.></wt.>
+		<equivalent></equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>?</disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.>Dumitrascu 1973; Guggisberg &amp; Kaufmann-Heinimann 2003, 344. no. 87</bib._refs.>
+</object>
+<object>
+		<known_as>Unprovenanced (Berlin)</known_as>
+		<provenance>unprovenanced</provenance>
+		<geo_reference></geo_reference>
+		<date_of_discovery></date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>plate</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Beaded rim, decorated with Artemis riding a stag.</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>350</date_(earliest)>
+		<date_(latest)>375</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>182</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)>65</d._(f'ring)>
+		<h_(total)>22</h_(total)>
+		<h_(f'ring)>7</h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)>0</ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>486</wt.>
+		<equivalent>1</equivalent>
+		<capacity></capacity>
+		<rim_type>beaded</rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition></disposition>
+		<inv._no.>Antikensammlung Berlin inv. 7883</inv._no.>
+		<bib._refs.>Toynbee &amp; Painter 1986, no. 36</bib._refs.>
+</object>
+<object>
+		<known_as>The Cibalae Treasure</known_as>
+		<provenance>Croatia</provenance>
+		<geo_reference>45° 17′ 28″ N, 18° 48′ 4″ E</geo_reference>
+		<date_of_discovery>2012</date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s></material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form></form>
+		<ratio_(h/d)></ratio_(h/d)>
+		<completeness></completeness>
+		<description></description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)></date_(earliest)>
+		<date_(latest)></date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)></d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)></h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.></wt.>
+		<equivalent></equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition></disposition>
+		<inv._no.></inv._no.>
+		<bib._refs.></bib._refs.>
+</object>
+<object>
+		<known_as>The Water Newton Treasure</known_as>
+		<provenance>Great Britain</provenance>
+		<geo_reference>52° 33′ 36″ N, 0° 22′ 12″ W</geo_reference>
+		<date_of_discovery>1975</date_of_discovery>
+		<circumstances_of_disc.></circumstances_of_disc.>
+		<reliability></reliability>
+		<total_wt._ar></total_wt._ar>
+		<comments></comments>
+		<material/s>silver</material/s>
+		<surface_treatment></surface_treatment>
+		<production_techniques></production_techniques>
+		<form>dish</form>
+		<ratio_(h/d)>0</ratio_(h/d)>
+		<completeness></completeness>
+		<description>Central Chi-Rho</description>
+		<iconography></iconography>
+		<inscriptions></inscriptions>
+		<place_of_production></place_of_production>
+		<date_(earliest)>350</date_(earliest)>
+		<date_(latest)>400</date_(latest)>
+		<culture>Roman</culture>
+		<d_(total)>335</d_(total)>
+		<w_(rim)></w_(rim)>
+		<d_(exc._rim)></d_(exc._rim)>
+		<d._(f'ring)></d._(f'ring)>
+		<h_(total)>53</h_(total)>
+		<h_(f'ring)></h_(f'ring)>
+		<h_(exc._f'ring)></h_(exc._f'ring)>
+		<ratio_(f'rh/h't)></ratio_(f'rh/h't)>
+		<length></length>
+		<width></width>
+		<max_diameter></max_diameter>
+		<wt.>1304</wt.>
+		<equivalent>3</equivalent>
+		<capacity></capacity>
+		<rim_type></rim_type>
+		<no._beads></no._beads>
+		<d._mean></d._mean>
+		<disposition>The British Museum</disposition>
+		<inv._no.>BM 1975,1002.7</inv._no.>
+		<bib._refs.>Kent &amp; Painter 1977 (26-53); Painter 1977b; Painter 1999</bib._refs.>
+</object>
+</objects>
