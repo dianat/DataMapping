@@ -6,6 +6,17 @@ def toUnicode(string):
 def escapeAmpersandCharacter(string):
     return string.replace('&','&amp;')
 
+def escapeBracketCharacter(string):
+    string = string.replace('(','')
+    string = string.replace(')', '')
+    return string
+
+def escapeApostropheCharacter(string):
+    return string.replace('\'','_')
+
+def escapeForwardSlashCharacter(string):
+    return string.replace('/','_')
+
 def processString(string):
     string = escapeAmpersandCharacter(string)
     string = toUnicode(string)
@@ -13,6 +24,9 @@ def processString(string):
 
 def generateXMLTagName(string):
     string = toUnicode(string)
+    string = escapeBracketCharacter(string)
+    string = escapeApostropheCharacter(string)
+    string = escapeForwardSlashCharacter(string)
     return (string.lower()).replace(' ','_')
 
 class XMLObject(object):
@@ -86,5 +100,3 @@ for item in items:
 
 xml.write('</objects>\n')
 xml.close()
-
-
