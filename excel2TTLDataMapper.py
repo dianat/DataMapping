@@ -69,11 +69,11 @@ prefixes = ''.join(['@prefix owl: <http://www.w3.org/2002/07/owl#> .\n',
             '@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .\n'
             '@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .\n',
             '@prefix skos: <http://www.w3.org/2004/02/skos/core#> .\n',
-            '@prefix ns0: <http://lexvo.org/ontology#> .\n'])
+            '@prefix dct: <http://purl.org/dc/terms/> .\n'])
 
 
 # Add conceptscheme URI
-prefixes = ''.join(['@prefix : <',concept_scheme_URI,'> .\n',
+prefixes = ''.join(['@prefix : <',concept_scheme_URI,'/> .\n',
                     concept_scheme_tuple,'\n'])
 
 # Creating an empty output file
