@@ -1,7 +1,5 @@
 # DataMapping
-Utility scripts for converting data to XML or TTL format
-
-Run the scripts with Python 2.7 
+Utility scripts for converting data to XML or TTL format written for Python 2.7 
 
 **Input:** An Excel file to convert to XML with tagnames based on the header row of the xml file
 
