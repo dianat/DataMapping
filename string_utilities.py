@@ -7,7 +7,8 @@ def enclose(string):
     if string.find('http://') > -1:
         return '<'+string.strip()+'>'
     else:
-        return langString(string)
+        return mapLangString(string)
+        #return string
 
 def escapeAmpersandCharacter(string):
     return string.replace('&','&amp;')
@@ -29,17 +30,26 @@ def mapEnclose(string):
     else:
         return enclose(string)
 
+def mapLangString(string):
+    string = string.replace('"','')
+    
+    if len(re.split('[;,]',string)) > 1:
+        return ', '.join(map(langString,re.split('[;,]',string)))
+    else:
+        return langString(string)
+
 def processString(string):
     string = escapeAmpersandCharacter(string)
     string = toUnicode(string)
     return string
 
 def langString(string):
+    string = string.strip()
     if string.find('@') > 0:
         string = string.replace('@','"@')
     else:
         string = string + '"'
-    return '"' + string.encode('utf-8')
+    return '"' + string
 
 def generateXMLTagName(string):
     string = toUnicode(string)
