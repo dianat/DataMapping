@@ -13,7 +13,7 @@ concept_sheme_rows = 3
 concept_scheme_tuple = ''
 concept_scheme_URI = ''
 
-for row in range(3):
+for row in range(concept_sheme_rows):
     predicate = (concept_scheme_sheet.cell(row,0).value)
     value = (concept_scheme_sheet.cell(row,1).value)
     
@@ -24,8 +24,6 @@ for row in range(3):
                                     'skos:ConceptScheme .\n'])
     else:  
         concept_scheme_tuple = ''.join([concept_scheme_tuple, concept_scheme_URI, ' ',predicate,' ',su.langString(value),'.\n'])
-
-print concept_scheme_tuple
 
 # By adding the name of a specific sheet in the workbook as an item of the list below, 
 # the script will not read its content and move to the next sheet like in the example
