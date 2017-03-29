@@ -1,5 +1,7 @@
+# -*- coding: utf-8 -*-
 # http://xlrd.readthedocs.io/en/latest/api.html#xlrd-sheet
 from xlrd import open_workbook
+import dms2wgs84 as latlong
 
 def toUnicode(string):
     return string.encode('utf-8').strip()
@@ -23,6 +25,21 @@ def processString(string):
     string = toUnicode(string)
     return string
 
+def processStringByType(string, data_type):
+    # Geo Reference
+    if data_type == 'Geo reference' and string != '':
+        dms = toUnicode(string)
+        dms = dms.split(',')
+        print dms[0]
+        return ''.join(['\t\t\t\t<latitude>',str(latlong.wgs84(dms[0])),'</latitude>\n',
+                       '\t\t\t\t<longitude>',str(latlong.wgs84(dms[1])),'</longitude>\n'])
+    
+    # Date Formatting
+
+    # Dimension with Measurement Unit
+
+    return processString(string)
+
 def generateXMLTagName(string):
     string = toUnicode(string)
     string = escapeBracketCharacter(string)
@@ -40,7 +57,7 @@ class XMLObject(object):
                                     '\t\t<',
                                     generateXMLTagName(header[col]),
                                     '>',
-                                    processString(self.values[col]),
+                                    processStringByType(self.values[col],header[col]),
                                     '</',
                                     generateXMLTagName(header[col]),
                                     '>\n'])
@@ -57,8 +74,8 @@ wb = open_workbook('data/SP_rawdata_master.xlsx')
 # By adding the name of a specific sheet in the workbook as an item of the list below, 
 # the script will not read its content and move to the next sheet like in the example
 # wb_sheet_list_to_ignore = ['Sheet2','Sheet3'];
-# wb_sheet_list_to_ignore = ['RE - 200-300','RE - 300-400','Sasanian']
-wb_sheet_list_to_ignore = ['Provenance']
+wb_sheet_list_to_ignore = ['RE - 200-300','RE - 300-400','Sasanian']
+#wb_sheet_list_to_ignore = ['Provenance']
 
 items = []
 
@@ -72,11 +89,17 @@ for sheet in wb.sheets():
         # Set header of the sheet -- assuming it is the first row when set to 0
         header_row = 0
         header = []
+
+        units_row = 1
+        units = []
+
         for col in range(number_of_columns):
             header_item  = (sheet.cell(header_row,col).value)
             if not header_item:
                 header_item = 'NoHeader'
             header.append(header_item)
+
+            # 
 
         # Read rows starting from header_row+offset
         offset = 3
@@ -97,11 +120,11 @@ for sheet in wb.sheets():
 
 
 # Creating an empty output file
-xml = open('data/silver.xml','w')
+xml = open('data/provenance.xml','w')
 xml.close()
 
 # Writing into the .xml file
-xml = open('data/silver.xml','a')
+xml = open('data/provenance.xml','a')
 xml.write('<?xml version="1.0" encoding="UTF-8"?>\n')
 xml.write('<collections>\n')
 

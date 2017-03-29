@@ -71,7 +71,7 @@ prefixes = ''.join(['@prefix owl: <http://www.w3.org/2002/07/owl#> .\n',
 
 
 # Add conceptscheme URI
-prefixes = ''.join(['@prefix : ',concept_scheme_URI,' .\n',
+prefixes = ''.join([prefixes, '\n @prefix : ',concept_scheme_URI,' .\n',
                     concept_scheme_tuple,'\n'])
 
 # Creating an empty output file
