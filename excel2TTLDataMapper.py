@@ -83,7 +83,8 @@ xml = open('data/output.ttl','a')
 xml.write(prefixes)
 
 for item in items:
-    xml.write(''.join([item.get_subject(),' skos:inScheme ',concept_scheme_URI,'.\n']))
+    xml.write(''.join([item.get_subject(),' skos:inScheme ',concept_scheme_URI,'.\n',
+                       item.get_subject(),' rdf:type skos:Concept.\n']))
     xml.write(str(item))
 
 xml.close()
