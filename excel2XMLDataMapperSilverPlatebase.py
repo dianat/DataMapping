@@ -74,7 +74,7 @@ wb = open_workbook('data/SP_rawdata_master.xlsx')
 # By adding the name of a specific sheet in the workbook as an item of the list below, 
 # the script will not read its content and move to the next sheet like in the example
 # wb_sheet_list_to_ignore = ['Sheet2','Sheet3'];
-wb_sheet_list_to_ignore = ['RE - 200-300','RE - 300-400','Sasanian']
+wb_sheet_list_to_ignore = ['RE - 200-300','RE - 300-400','Sasanian','Byzantine']
 #wb_sheet_list_to_ignore = ['Provenance']
 
 items = []
@@ -120,16 +120,17 @@ for sheet in wb.sheets():
 
 
 # Creating an empty output file
-xml = open('data/provenance.xml','w')
+output = 'data/provenance.xml'
+xml = open(output,'w')
 xml.close()
 
 # Writing into the .xml file
-xml = open('data/provenance.xml','a')
+xml = open(output,'a')
 xml.write('<?xml version="1.0" encoding="UTF-8"?>\n')
-xml.write('<collections>\n')
+xml.write('<objects>\n')
 
 for item in items:
     xml.write(str(item))
 
-xml.write('</collections>\n')
+xml.write('</objects>\n')
 xml.close()

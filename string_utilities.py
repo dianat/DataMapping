@@ -44,6 +44,10 @@ def processString(string):
     return string
 
 def langString(string):
+    # This checks if the object value is in the format :skos_concept_name
+    # and prevents further double quotes or @ to be concatenated to it.
+    if string.find(':') > -1:
+        return string
     string = string.strip()
     if string.find('@') > 0:
         string = string.replace('@','"@')

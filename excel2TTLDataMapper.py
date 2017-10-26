@@ -3,7 +3,7 @@ from TurtleStatement import TurtleStatement
 from xlrd import open_workbook
 
 # Open Excel Spreadsheet
-wb = open_workbook('data/Japanese_format_impression_SKOS_vocab.xlsx')
+wb = open_workbook('data/platebase_scripts.xlsx')
 
 # Specifying the concept scheme definition section
 concept_scheme_sheet = wb.sheet_by_name('Sheet1')
@@ -39,7 +39,7 @@ for sheet in wb.sheets():
         rows = []
 
         # Set header of the sheet -- assuming it is the first row when set to 0
-        skos_predicates_row = 6
+        skos_predicates_row = 7
         skos_predicates = []
         for col in range(number_of_columns):
             skos_relation  = (sheet.cell(skos_predicates_row,col).value)
@@ -71,20 +71,20 @@ prefixes = ''.join(['@prefix owl: <http://www.w3.org/2002/07/owl#> .\n',
 
 
 # Add conceptscheme URI
-prefixes = ''.join([prefixes, '\n @prefix : ',concept_scheme_URI,' .\n',
+prefixes = ''.join([prefixes, '@prefix : ',concept_scheme_URI,' .\n',
                     concept_scheme_tuple,'\n'])
 
 # Creating an empty output file
-xml = open('data/output.ttl','w')
+xml = open('data/output_location.ttl','w')
 xml.close()
 
 # Writing into the .xml file
-xml = open('data/output.ttl','a')
+xml = open('data/output_location.ttl','a')
 xml.write(prefixes)
 
 for item in items:
     xml.write(''.join([item.get_subject(),' skos:inScheme ',concept_scheme_URI,'.\n',
-                       item.get_subject(),' rdf:type skos:Concept.\n']))
+                       item.get_subject(),' rdf:type skos:Concept .\n']))
     xml.write(str(item))
 
 xml.close()

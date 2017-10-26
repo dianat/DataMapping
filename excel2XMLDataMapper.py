@@ -52,12 +52,12 @@ class XMLObject(object):
 
 
 # Open Excel Spreadsheet
-wb = open_workbook('data/AR_Platebase_sample.xlsx')
+wb = open_workbook('data/gravitate/Full_3D_patch_id_museumurl_plypath.xlsx')
 
 # By adding the name of a specific sheet in the workbook as an item of the list below, 
 # the script will not read its content and move to the next sheet like in the example
-# wb_sheet_list_to_ignore = ['Sheet2','Sheet3'];
-wb_sheet_list_to_ignore = []
+wb_sheet_list_to_ignore = ['Sheet2','Sheet3'];
+#wb_sheet_list_to_ignore = []
 
 items = []
 

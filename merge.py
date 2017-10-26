@@ -3,7 +3,7 @@ from lxml import etree
 parent_xml_file = 'data/provenance.xml'
 tree = etree.parse(parent_xml_file)
 
-children_xml_file = 'data/silver.xml'
+children_xml_file = 'data/silverbase.xml'
 children_tree = etree.parse(children_xml_file)
 
 # Create parent node -- collections
@@ -21,11 +21,11 @@ for _, element in etree.iterparse(parent_xml_file, tag='collection'):
 	merged_tree.append(element)
 
 # Creating an empty output file
-xml = open('data/merged_provenance_silver.xml','w')
+xml = open('data/silverbase_processed.xml','w')
 xml.close()
 
 # Writing into the .xml file
-xml = open('data/merged_provenance_silver.xml','a')
+xml = open('data/silverbase_processed.xml','a')
 xml.write('<?xml version="1.0" encoding="UTF-8"?>\n')
 xml.write(etree.tostring(merged_tree))
 xml.close()

@@ -23,7 +23,7 @@ class TurtleStatement(object):
         self.ttl_object = ''.join([self.subject,' ', self.predicates])  
 
     def get_subject(self):
-        return self.subject
+        return self.subject.encode('UTF-8')
 
     def __str__(self):
         return self.ttl_object.encode('UTF-8')
